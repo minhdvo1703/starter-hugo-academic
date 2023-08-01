@@ -1,7 +1,7 @@
 ---
 title: Minh Dieu Vo
 role: Graduate Data Science Student at The University of Chicago
-avatar_filename: img_1008.jpg
+avatar_filename: img_1009.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
