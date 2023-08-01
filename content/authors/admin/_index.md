@@ -2,8 +2,7 @@
 title: Minh Dieu Vo
 role: Graduate Data Science Student at The University of Chicago
 avatar_filename: img_1009.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: A self-motivated data science student who is willing to learn new things.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -12,21 +11,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/minhdvo1703
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/minhvo-0317/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
